@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fares Hassan</h1>
 <h3 align="center">A passionate Full-Stack Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xfareshassanx&label=Profile%20views&color=0e75b6&style=flat" alt="xfareshassanx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fareshaxxan&label=Profile%20views&color=0e75b6&style=flat" alt="fareshaxxan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xfareshassanx" alt="xfareshassanx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fareshaxxan" alt="fareshaxxan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xfareshassanx" target="blank"><img src="https://img.shields.io/twitter/follow/xfareshassanx?logo=twitter&style=for-the-badge" alt="xfareshassanx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fareshaxxan" target="blank"><img src="https://img.shields.io/twitter/follow/fareshaxxan?logo=twitter&style=for-the-badge" alt="fareshaxxan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
-- 📝 I regularly write articles on [https://medium.com/@xfareshassanx](https://medium.com/@xfareshassanx)
+- 📝 I regularly write articles on [https://medium.com/@fareshaxxan](https://medium.com/@fareshaxxan)
 
 - 💬 Ask me about **TypeScript, Angular and .NET**
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xfareshassanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xfareshassanx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xfareshassanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xfareshassanx" height="30" width="40" /></a>
-<a href="https://medium.com/@xfareshassanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xfareshassanx" height="30" width="40" /></a>
+<a href="https://twitter.com/fareshaxxan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fareshaxxan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fareshaxxan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fareshaxxan" height="30" width="40" /></a>
+<a href="https://medium.com/@fareshaxxan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fareshaxxan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
