@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **TypeScript, Angular and .NET**
 
-- 📫 How to reach me **FaresHaxxan@outlook.com**
+- 📫 How to reach me **FaresHaxxan@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
